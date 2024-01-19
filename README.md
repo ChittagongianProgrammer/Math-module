@@ -1,5 +1,5 @@
 # Basic Modules
-This is my 2nd day of my attempt to do 100 days of code challenge. I am revising Python for software engineering purposes. I have attached two files to this repository.
+I am revising Python for software engineering purposes. I have attached two files to this repository.
 
 ## Basics.ipynb
 
